@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "https://arielweinberger.github.io/task-management-frontend/static/css/main.5ac26d30.chunk.css",
-    "main.js": "https://arielweinberger.github.io/task-management-frontend/static/js/main.e59148d8.chunk.js",
-    "main.js.map": "https://arielweinberger.github.io/task-management-frontend/static/js/main.e59148d8.chunk.js.map",
-    "runtime~main.js": "https://arielweinberger.github.io/task-management-frontend/static/js/runtime~main.9edc4a16.js",
-    "runtime~main.js.map": "https://arielweinberger.github.io/task-management-frontend/static/js/runtime~main.9edc4a16.js.map",
-    "static/js/2.c1498b61.chunk.js": "https://arielweinberger.github.io/task-management-frontend/static/js/2.c1498b61.chunk.js",
-    "static/js/2.c1498b61.chunk.js.map": "https://arielweinberger.github.io/task-management-frontend/static/js/2.c1498b61.chunk.js.map",
-    "index.html": "https://arielweinberger.github.io/task-management-frontend/index.html",
-    "precache-manifest.0a88baa7b4ebb92ea89c64cd3e3f4832.js": "https://arielweinberger.github.io/task-management-frontend/precache-manifest.0a88baa7b4ebb92ea89c64cd3e3f4832.js",
-    "service-worker.js": "https://arielweinberger.github.io/task-management-frontend/service-worker.js",
-    "static/css/main.5ac26d30.chunk.css.map": "https://arielweinberger.github.io/task-management-frontend/static/css/main.5ac26d30.chunk.css.map"
+    "main.css": "https://HyunJun-Yoon.github.io/task-management-frontend/static/css/main.5ac26d30.chunk.css",
+    "main.js": "https://HyunJun-Yoon.github.io/task-management-frontend/static/js/main.e5594cdd.chunk.js",
+    "main.js.map": "https://HyunJun-Yoon.github.io/task-management-frontend/static/js/main.e5594cdd.chunk.js.map",
+    "runtime~main.js": "https://HyunJun-Yoon.github.io/task-management-frontend/static/js/runtime~main.3b782a68.js",
+    "runtime~main.js.map": "https://HyunJun-Yoon.github.io/task-management-frontend/static/js/runtime~main.3b782a68.js.map",
+    "static/js/2.9d1dd7c7.chunk.js": "https://HyunJun-Yoon.github.io/task-management-frontend/static/js/2.9d1dd7c7.chunk.js",
+    "static/js/2.9d1dd7c7.chunk.js.map": "https://HyunJun-Yoon.github.io/task-management-frontend/static/js/2.9d1dd7c7.chunk.js.map",
+    "index.html": "https://HyunJun-Yoon.github.io/task-management-frontend/index.html",
+    "precache-manifest.406d813ec3bc64b2294243362a30ef6a.js": "https://HyunJun-Yoon.github.io/task-management-frontend/precache-manifest.406d813ec3bc64b2294243362a30ef6a.js",
+    "service-worker.js": "https://HyunJun-Yoon.github.io/task-management-frontend/service-worker.js",
+    "static/css/main.5ac26d30.chunk.css.map": "https://HyunJun-Yoon.github.io/task-management-frontend/static/css/main.5ac26d30.chunk.css.map"
   }
 }
